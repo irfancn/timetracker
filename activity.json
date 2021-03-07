@@ -1,0 +1,40 @@
+{
+    "dates": [
+        "2021-03-03",
+        "2021-03-04"
+    ],
+    "entries": [
+        {
+            "applications": [
+                "Break",
+                "Task 1",
+                "Task 2",
+                "Task 3",
+                "Task 4"
+            ],
+            "time": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "applications": [
+                "Break",
+                "Job",
+                "Machine learning",
+                "ROS",
+                "Waste"
+            ],
+            "time": [
+                8817,
+                655,
+                0,
+                0,
+                2668
+            ]
+        }
+    ]
+}
